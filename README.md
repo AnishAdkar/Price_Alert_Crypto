@@ -15,7 +15,7 @@ This application allows users to set alerts for cryptocurrency prices. When the 
 
 2. Using virtual Environment is optional, but you may.
 
-3. Change directory to 'Price_Alert_Crypto' within 'Price_Alert_Crypto'.
+3. Change directory to 'Price_Alert_App' within 'Price_Alert_App'.
 
 4. On Terminal, Run Command 'python manage.py runserver' to Run Django server.
 
