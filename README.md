@@ -13,11 +13,12 @@ This application allows users to set alerts for cryptocurrency prices. When the 
 
 1. Clone the Repository
 
-2. Using virtual Environment is optional, but you may.
+2. Open Git Desktop and use "open repository in VS Code".
 
 3. Change directory to 'Price_Alert_App' within 'Price_Alert_App'.
+   i.e. Use "cd price_alert_app" command in bash.
 
-4. On Terminal, Run Command 'python manage.py runserver' to Run Django server.
+4. On bash terminal, Run Command 'docker-compose up --build' to Run Django server.
 
 5. Use Postman to interact with REST API.
 
