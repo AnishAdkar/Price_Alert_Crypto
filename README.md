@@ -1,5 +1,3 @@
-# Price_Alert_Crypto
-This application allows users to set alerts for cryptocurrency prices. When the target price is reached, an email notification is sent to the user.
 
 ## Requirements
 
